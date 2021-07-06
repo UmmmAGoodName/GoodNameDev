@@ -12,3 +12,5 @@
 
 
 Info about the bot
+
+You can see all the commands in the commands.txt file. There is both User commands and admin commands and a format for copy pasting it into a server
