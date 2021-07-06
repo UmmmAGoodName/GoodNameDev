@@ -1,5 +1,3 @@
 #GoodNameDev
-
-#Thanks for downloading this folder
-#This is the changelog for GoodNameDev [GND]
-#https://discord.gg/bv6tN5vtkR
+https://discord.gg/bv6tN5vtkR
+This is the discord wher you can find the bots
