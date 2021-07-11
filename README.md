@@ -1,3 +1,2 @@
-#GoodNameDev
-https://discord.gg/bv6tN5vtkR
-This is the discord wher you can find the bots
+Made by GoodNameDev
+GoodNameDev makes discord bots
